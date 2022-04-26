@@ -8,7 +8,7 @@
 
 A simple App to type three choices separated by commas. Upon pressing enter, it will randomly picks 1 choice from the above. I have used Math.random along with forEach loops to help build the app
 
-Project Demo: [https://expanded-cards-by-shahid.netlify.app/](https://expanded-cards-by-shahid.netlify.app/)
+Project Demo: [https://random-choice-picker-by-shahid.netlify.app/](https://random-choice-picker-by-shahid.netlify.app/)
 
 ## Hi, I'm Shahid! 👋
 
@@ -45,7 +45,6 @@ I’m a perfectionist to the smallest pixel and I always take care of responsive
 
 ## Credits
 
-- [Brad Traversy](https://github.com/bradtraversy)
 - [50 Projects 50 Days](https://50projects50days.com)
 
 ## Questions?
